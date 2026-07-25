@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# local-only: the pre-terminal-redesign README, kept for reference
+README-old-backup.md
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
