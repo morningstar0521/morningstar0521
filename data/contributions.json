@@ -1,22 +1,22 @@
 {
   "username": "morningstar0521",
-  "generated_at": "2026-08-22T07:02:06Z",
+  "generated_at": "2026-08-23T07:04:02Z",
   "range": {
-    "start": "2025-08-17",
-    "end": "2026-08-22"
+    "start": "2025-08-24",
+    "end": "2026-08-23"
   },
-  "total_contributions": 15762,
-  "active_days": 347,
-  "avg_per_active_day": 45.4,
+  "total_contributions": 15655,
+  "active_days": 341,
+  "avg_per_active_day": 45.9,
   "current_streak": {
-    "length": 291,
+    "length": 292,
     "start": "2025-11-05",
-    "end": "2026-08-22"
+    "end": "2026-08-23"
   },
   "longest_streak": {
-    "length": 291,
+    "length": 292,
     "start": "2025-11-05",
-    "end": "2026-08-22"
+    "end": "2026-08-23"
   },
   "best_day": {
     "date": "2025-12-20",
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-08",
-      "total": 247
+      "total": 62
     },
     {
       "month": "2025-09",
@@ -73,38 +73,10 @@
     },
     {
       "month": "2026-08",
-      "total": 1023
+      "total": 1101
     }
   ],
   "days": [
-    {
-      "date": "2025-08-17",
-      "count": 2
-    },
-    {
-      "date": "2025-08-18",
-      "count": 8
-    },
-    {
-      "date": "2025-08-19",
-      "count": 25
-    },
-    {
-      "date": "2025-08-20",
-      "count": 25
-    },
-    {
-      "date": "2025-08-21",
-      "count": 25
-    },
-    {
-      "date": "2025-08-22",
-      "count": 50
-    },
-    {
-      "date": "2025-08-23",
-      "count": 50
-    },
     {
       "date": "2025-08-24",
       "count": 0
@@ -1559,7 +1531,11 @@
     },
     {
       "date": "2026-08-22",
-      "count": 2
+      "count": 5
+    },
+    {
+      "date": "2026-08-23",
+      "count": 75
     }
   ]
 }
