@@ -49,7 +49,7 @@
 <td>Flask + Vue parking platform · 500 concurrent users at &lt;200ms p95 · <b>Best Project, IIT Madras</b></td>
 </tr>
 <tr>
-<td><a href="https://minorproject-red.vercel.app/"><code><b>venturelens-ai</b></code></a></td>
+<td><a href="https://venturelens-beige.vercel.app/"><code><b>venturelens-ai</b></code></a></td>
 <td>Multi-LLM startup validation · Gemini + Groq in parallel, <b>~50% latency cut</b></td>
 </tr>
 <tr>
